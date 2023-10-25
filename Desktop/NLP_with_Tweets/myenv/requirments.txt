@@ -1,0 +1,11 @@
+seaborn
+matplotlib.pyplot
+numpy
+pandas
+re
+nltk
+sklearn
+pandas_profiling
+pygwalker
+gensim
+pivottablejs
